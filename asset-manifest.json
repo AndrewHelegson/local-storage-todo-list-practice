@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.fd56edfe.css",
-    "main.js": "/react-gh-pages/static/js/main.e3a5f60f.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.fd56edfe.css.map": "/react-gh-pages/static/css/main.fd56edfe.css.map",
-    "main.e3a5f60f.js.map": "/react-gh-pages/static/js/main.e3a5f60f.js.map"
+    "main.css": "/local-storage-todo-list-practice/static/css/main.fd56edfe.css",
+    "main.js": "/local-storage-todo-list-practice/static/js/main.e3a5f60f.js",
+    "index.html": "/local-storage-todo-list-practice/index.html",
+    "main.fd56edfe.css.map": "/local-storage-todo-list-practice/static/css/main.fd56edfe.css.map",
+    "main.e3a5f60f.js.map": "/local-storage-todo-list-practice/static/js/main.e3a5f60f.js.map"
   },
   "entrypoints": [
     "static/css/main.fd56edfe.css",
